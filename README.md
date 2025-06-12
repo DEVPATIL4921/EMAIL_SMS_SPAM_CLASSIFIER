@@ -3,7 +3,7 @@
 ## 🔍 Project Overview  
 This project focuses on detecting **spam messages** in **emails and SMS** using **Natural Language Processing (NLP) and Machine Learning**. The model effectively classifies messages as **spam or ham (not spam)** using text-processing techniques and classification algorithms.  
 
-## 🌐 Live Streamlit App  
+## 🌐 Live Streamlit App
 Try the **live spam detection app** here:  
 👉 **[Email & SMS Spam Classifier](https://sms-spam-classifier-aj.streamlit.app/)**  
 
