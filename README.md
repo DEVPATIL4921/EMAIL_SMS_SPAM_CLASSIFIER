@@ -29,7 +29,6 @@ The dataset includes:
 5️⃣ **Evaluation**: Assessed models using **accuracy, precision, recall, and F1-score**.  
 6️⃣ **Deployment**: Hosted the model on **Streamlit** for real-time spam detection.  
 
-
 ## 📊 Model Performance  
 | Model                      | Accuracy | Precision | Recall | F1-Score |
 |---------------------------|----------|------------|--------|---------|
